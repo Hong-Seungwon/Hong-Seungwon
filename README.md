@@ -8,7 +8,6 @@
 
 **Back-end** : 
 ![](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white) 
-![](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
