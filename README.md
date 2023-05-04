@@ -7,7 +7,7 @@
 ![](https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 **Back-end** : 
-![](https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white) 
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![](https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
